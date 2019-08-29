@@ -1,0 +1,30 @@
+.pricingitem {
+  width: 280px;
+  font-family: "Lucida Sans", sans-serif;
+  text-align: center;
+  color: silver;
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.capacity {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.price {
+  color: grey;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.button {
+  border: 0;
+  width: 200px;
+  height: 40px;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: goldenrod;
+}
